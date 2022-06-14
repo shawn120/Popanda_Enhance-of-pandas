@@ -16,6 +16,6 @@ To use this package, please make sure you already install the latest "pandas" an
 
 Remember to put it in the same directory with your code.
 
-11/26/2021: release
+11/26/2021: upload
 
 12/23/2021: add two functions using in dicision tree model
